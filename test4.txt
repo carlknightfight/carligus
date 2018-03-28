@@ -1,0 +1,373 @@
+1521555154	e4:ce:8f:3c:42:be	Apple, Inc.		-75
+1521555154	02:d9:db:10:2b:08	UNKNOWN		-79
+1521555155	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-75
+1521555155	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-77
+1521555155	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-75
+1521555155	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TP-LINK_2470_5G	-77
+1521555155	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-75
+1521555155	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-75
+1521555155	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-75
+1521555155	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-77
+1521555155	94:65:2d:d6:63:07	OnePlus Technology (Shenzhen) Co., Ltd		-79
+1521555155	6a:09:71:c7:c7:e5	UNKNOWN		-85
+1521555155	2c:fd:ab:5d:70:f4	UNKNOWN		-81
+1521555155	2c:fd:ab:5d:70:f4	UNKNOWN		-81
+1521555156	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-57
+1521555156	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555158	2e:68:ec:ff:f1:eb	UNKNOWN		-75
+1521555158	ac:b5:7d:d0:34:94	Liteon Technology Corporation		-61
+1521555158	ac:b5:7d:d0:34:94	Liteon Technology Corporation		-61
+1521555160	2c:fd:ab:5d:70:fc	UNKNOWN		-83
+1521555160	2c:fd:ab:5d:84:df	UNKNOWN		-83
+1521555160	2c:fd:ab:5d:84:df	UNKNOWN		-77
+1521555160	2c:fd:ab:5d:84:df	UNKNOWN		-77
+1521555161	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555161	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555161	2c:fd:ab:5d:70:37	UNKNOWN		-85
+1521555162	2c:fd:ab:5d:70:37	UNKNOWN		-73
+1521555162	2c:fd:ab:5d:70:37	UNKNOWN		-83
+1521555163	36:63:bc:1e:9d:f8	UNKNOWN		-85
+1521555163	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-75
+1521555163	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-75
+1521555163	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Campusbussen	-73
+1521555163	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-77
+1521555163	a4:ca:a0:b1:75:40	HUAWEI TECHNOLOGIES CO.,LTD		-85
+1521555163	a4:ca:a0:b1:75:40	HUAWEI TECHNOLOGIES CO.,LTD		-81
+1521555165	94:65:2d:d6:63:07	OnePlus Technology (Shenzhen) Co., Ltd		-77
+1521555166	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-53
+1521555166	1e:e5:44:c9:b8:6f	UNKNOWN		-83
+1521555166	ac:5f:3e:e2:18:d6	SAMSUNG ELECTRO-MECHANICS(THAILAND)	homerun1x	-85
+1521555166	ac:5f:3e:e2:18:d6	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-85
+1521555167	36:63:bc:1e:9d:f8	UNKNOWN		-85
+1521555167	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-65
+1521555168	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-73
+1521555168	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-73
+1521555168	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-71
+1521555168	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-73
+1521555168	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-73
+1521555168	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-73
+1521555168	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-67
+1521555168	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	homerun1x	-67
+1521555168	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-67
+1521555168	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-63
+1521555169	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	homerun1x	-75
+1521555169	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-59
+1521555169	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-37
+1521555169	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-35
+1521555169	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-37
+1521555169	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-37
+1521555169	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-49
+1521555170	48:d2:24:20:72:63	Liteon Technology Corporation	eduroam	-89
+1521555170	48:d2:24:20:72:63	Liteon Technology Corporation	eduroam	-87
+1521555170	2c:fd:ab:5d:70:f4	UNKNOWN		-83
+1521555170	2c:fd:ab:5d:70:f4	UNKNOWN		-85
+1521555171	82:c2:6e:b9:d8:fc	UNKNOWN		-87
+1521555171	82:c2:6e:b9:d8:fc	UNKNOWN		-85
+1521555171	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555171	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-71
+1521555171	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-75
+1521555171	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-69
+1521555171	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-71
+1521555171	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-73
+1521555171	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Campusbussen	-73
+1521555171	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555171	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555171	00:ae:fa:76:27:f9	Murata Manufacturing Co., Ltd.		-63
+1521555171	00:ae:fa:76:27:f9	Murata Manufacturing Co., Ltd.		-63
+1521555172	00:ae:fa:76:27:f9	Murata Manufacturing Co., Ltd.		-63
+1521555172	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-55
+1521555172	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	homerun1x	-55
+1521555172	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-55
+1521555172	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-61
+1521555172	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	homerun1x	-61
+1521555172	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-61
+1521555173	34:02:86:57:a9:9a	Intel Corporate		-81
+1521555174	e4:f8:9c:26:8b:3a	Intel Corporate		-77
+1521555175	c2:99:17:b8:d1:3c	UNKNOWN		-75
+1521555175	2c:fd:ab:5d:84:df	UNKNOWN		-81
+1521555175	58:48:22:55:88:10	Sony Mobile Communications AB		-81
+1521555175	58:48:22:55:88:10	Sony Mobile Communications AB		-79
+1521555175	2c:fd:ab:5d:84:df	UNKNOWN		-83
+1521555175	2c:fd:ab:5d:84:df	UNKNOWN		-81
+1521555176	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555176	80:19:34:e5:a7:a4	Intel Corporate		-85
+1521555176	36:63:bc:1e:9d:f8	UNKNOWN		-83
+1521555177	3a:d0:cb:d8:ed:34	UNKNOWN		-89
+1521555177	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555179	a4:5e:60:d2:23:f7	Apple, Inc.		-75
+1521555179	a4:5e:60:d2:23:f7	Apple, Inc.		-75
+1521555179	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-73
+1521555179	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TP-LINK_2470_5G	-75
+1521555179	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-75
+1521555179	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-75
+1521555179	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Campusbussen	-75
+1521555179	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-75
+1521555179	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-83
+1521555179	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-85
+1521555180	28:3f:69:cb:e4:9f	Sony Mobile Communications AB		-35
+1521555180	a4:ca:a0:b1:75:40	HUAWEI TECHNOLOGIES CO.,LTD		-85
+1521555180	a4:ca:a0:b1:75:40	HUAWEI TECHNOLOGIES CO.,LTD		-85
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	LiU	-85
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	eduroam	-85
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	Klubbland_5G	-85
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	espressohouse	-83
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	Klubbland	-83
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	comhem_FB9786	-83
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	Telia-52C4B5	-83
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	LiU	-81
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	eduroam	-81
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	Klubbland_5G	-83
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	espressohouse	-83
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	Klubbland	-77
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	Telia5GHz-703CBD	-77
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	Solprinsen2	-81
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	comhem_FB9786	-79
+1521555180	98:01:a7:97:99:c9	Apple, Inc.	Klubbland	-85
+1521555181	2c:fd:ab:5d:70:fc	UNKNOWN		-81
+1521555182	28:3f:69:cb:e4:9f	Sony Mobile Communications AB		-35
+1521555182	28:3f:69:cb:e4:9f	Sony Mobile Communications AB		-33
+1521555182	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-57
+1521555182	28:3f:69:cb:e4:9f	Sony Mobile Communications AB		-35
+1521555183	28:3f:69:cb:e4:9f	Sony Mobile Communications AB		-37
+1521555183	28:3f:69:cb:e4:9f	Sony Mobile Communications AB		-35
+1521555184	e8:50:8b:d1:cc:49	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-61
+1521555184	e8:50:8b:d1:cc:49	SAMSUNG ELECTRO-MECHANICS(THAILAND)	homerun1x	-61
+1521555184	e8:50:8b:d1:cc:49	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-61
+1521555184	e8:50:8b:d1:cc:49	SAMSUNG ELECTRO-MECHANICS(THAILAND)	homerun1x	-61
+1521555184	e8:50:8b:d1:cc:49	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-59
+1521555184	98:01:a7:97:99:c9	Apple, Inc.	LiU	-87
+1521555185	94:65:2d:d6:63:07	OnePlus Technology (Shenzhen) Co., Ltd		-79
+1521555186	98:5f:d3:3d:9a:0f	Microsoft Corporation		-73
+1521555186	98:5f:d3:3d:9a:0f	Microsoft Corporation		-75
+1521555186	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-63
+1521555187	02:d9:db:10:2b:08	UNKNOWN		-83
+1521555187	c4:61:8b:13:f4:1e	UNKNOWN	eduroam	-79
+1521555187	c4:61:8b:13:f4:1e	UNKNOWN	eduroam	-79
+1521555187	98:5f:d3:3d:9a:0f	Microsoft Corporation		-69
+1521555187	98:5f:d3:3d:9a:0f	Microsoft Corporation		-69
+1521555187	d0:c5:f3:3a:1c:c3	Apple, Inc.	eduroam	-81
+1521555187	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-71
+1521555187	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-71
+1521555187	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-75
+1521555187	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TP-LINK_2470_5G	-73
+1521555187	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-73
+1521555187	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Campusbussen	-73
+1521555187	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-73
+1521555187	74:c6:3b:56:0e:0d	AzureWave Technology Inc.		-87
+1521555187	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-81
+1521555187	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-79
+1521555188	d0:c5:f3:8b:45:2b	Apple, Inc.	eduroam	-89
+1521555189	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555190	a4:ca:a0:b1:75:40	HUAWEI TECHNOLOGIES CO.,LTD		-83
+1521555190	a4:ca:a0:b1:75:40	HUAWEI TECHNOLOGIES CO.,LTD		-79
+1521555191	2c:fd:ab:5d:70:37	UNKNOWN		-77
+1521555192	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-61
+1521555192	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-59
+1521555192	d0:c5:f3:8b:45:2b	Apple, Inc.	eduroam	-85
+1521555192	d0:c5:f3:8b:45:2b	Apple, Inc.	eduroam	-85
+1521555192	2c:fd:ab:5d:70:fc	UNKNOWN		-83
+1521555192	ac:5f:3e:31:d4:85	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-87
+1521555193	06:6a:d5:d9:97:90	UNKNOWN		-79
+1521555193	9e:f7:3a:66:a1:ba	UNKNOWN		-75
+1521555194	c4:61:8b:13:f4:1e	UNKNOWN	eduroam	-87
+1521555194	c4:61:8b:13:f4:1e	UNKNOWN	eduroam	-87
+1521555195	a4:ca:a0:b1:75:40	HUAWEI TECHNOLOGIES CO.,LTD		-83
+1521555195	a4:ca:a0:b1:75:40	HUAWEI TECHNOLOGIES CO.,LTD		-85
+1521555195	94:65:2d:d6:63:07	OnePlus Technology (Shenzhen) Co., Ltd		-69
+1521555196	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-75
+1521555196	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-75
+1521555196	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Campusbussen	-73
+1521555196	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-73
+1521555196	e6:63:fe:4b:ad:20	UNKNOWN		-89
+1521555197	ac:5f:3e:c3:fe:46	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-77
+1521555197	ac:5f:3e:c3:fe:46	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-69
+1521555197	ac:5f:3e:c3:fe:46	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-75
+1521555198	02:da:d6:51:93:85	UNKNOWN		-89
+1521555198	02:da:d6:51:93:85	UNKNOWN		-89
+1521555198	1e:bb:5e:e7:76:fa	UNKNOWN	homerun1x	-85
+1521555198	1e:bb:5e:e7:76:fa	UNKNOWN		-85
+1521555198	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555199	94:65:2d:7c:5d:43	OnePlus Technology (Shenzhen) Co., Ltd		-39
+1521555199	94:65:2d:7c:5d:43	OnePlus Technology (Shenzhen) Co., Ltd		-39
+1521555199	da:a1:19:de:10:2b	UNKNOWN		-59
+1521555199	94:65:2d:d8:ec:1e	OnePlus Technology (Shenzhen) Co., Ltd		-85
+1521555200	2c:fd:ab:5d:70:f4	UNKNOWN		-83
+1521555201	48:d7:05:e5:90:07	Apple, Inc.	LiU	-87
+1521555201	48:d7:05:e5:90:07	Apple, Inc.		-85
+1521555201	48:d7:05:e5:90:07	Apple, Inc.		-85
+1521555202	24:18:1d:16:fa:73	UNKNOWN	eduroam	-83
+1521555202	3a:c0:66:33:26:50	UNKNOWN		-87
+1521555203	94:b1:0a:fd:0d:28	Samsung Electronics Co.,Ltd		-53
+1521555203	94:b1:0a:fd:0d:28	Samsung Electronics Co.,Ltd		-53
+1521555203	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-67
+1521555203	98:5f:d3:50:97:00	Microsoft Corporation	eduroam	-47
+1521555203	98:5f:d3:50:97:00	Microsoft Corporation	eduroam	-47
+1521555203	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-59
+1521555204	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-75
+1521555204	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-77
+1521555204	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-75
+1521555204	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TP-LINK_2470_5G	-75
+1521555204	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-75
+1521555204	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-75
+1521555204	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Campusbussen	-75
+1521555204	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-75
+1521555205	94:65:2d:d6:63:07	OnePlus Technology (Shenzhen) Co., Ltd		-79
+1521555205	2c:fd:ab:5d:84:df	UNKNOWN		-83
+1521555205	2c:fd:ab:5d:84:df	UNKNOWN		-85
+1521555206	80:19:34:33:6e:18	Intel Corporate		-73
+1521555206	2c:fd:ab:5d:70:37	UNKNOWN		-85
+1521555206	2c:fd:ab:5d:70:37	UNKNOWN		-85
+1521555206	2c:fd:ab:5d:70:37	UNKNOWN		-83
+1521555206	2c:fd:ab:5d:70:37	UNKNOWN		-85
+1521555207	2c:fd:ab:5d:70:37	UNKNOWN		-83
+1521555207	da:a1:19:14:b4:a1	UNKNOWN		-77
+1521555207	da:a1:19:14:b4:a1	UNKNOWN		-75
+1521555207	98:01:a7:97:99:c9	Apple, Inc.		-85
+1521555207	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-59
+1521555208	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-61
+1521555208	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-53
+1521555208	b4:f6:1c:63:92:6a	UNKNOWN	eduroam	-87
+1521555208	a8:5c:2c:61:e1:ec	UNKNOWN	eduroam	-83
+1521555210	52:ca:d9:41:9a:2c	UNKNOWN		-83
+1521555211	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-73
+1521555211	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	homerun1x	-73
+1521555211	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-73
+1521555211	40:b8:37:d8:4c:ef	Sony Mobile Communications AB		-77
+1521555211	ac:5f:3e:66:3d:ff	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-83
+1521555212	c0:bd:d1:ec:0e:be	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-75
+1521555212	c0:bd:d1:ec:0e:be	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-75
+1521555212	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-69
+1521555212	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-71
+1521555212	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-73
+1521555212	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TP-LINK_2470_5G	-71
+1521555212	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-71
+1521555212	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-75
+1521555212	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-71
+1521555212	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-57
+1521555212	48:27:ea:b5:42:68	Samsung Electronics Co.,Ltd		-89
+1521555212	ac:5f:3e:31:d4:85	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-89
+1521555212	ac:5f:3e:31:d4:85	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-87
+1521555213	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd	homerun1x	-83
+1521555213	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd		-83
+1521555213	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd		-83
+1521555215	2c:fd:ab:5d:70:f4	UNKNOWN		-85
+1521555216	d0:c5:f3:8b:45:2b	Apple, Inc.	eduroam	-89
+1521555217	c0:ee:fb:dc:84:2e	OnePlus Tech (Shenzhen) Ltd	eduroam	-85
+1521555217	c0:ee:fb:dc:84:2e	OnePlus Tech (Shenzhen) Ltd	eduroam	-83
+1521555218	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd	homerun1x	-81
+1521555218	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd		-85
+1521555218	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd	Telia wifi1x	-83
+1521555218	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd	homerun1x	-83
+1521555218	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd		-83
+1521555218	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-57
+1521555218	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-53
+1521555220	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-69
+1521555220	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-69
+1521555220	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-71
+1521555220	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TP-LINK_2470_5G	-71
+1521555220	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-69
+1521555220	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-71
+1521555220	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Campusbussen	-71
+1521555220	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-69
+1521555220	a2:fe:4b:33:e6:78	UNKNOWN		-85
+1521555220	2c:fd:ab:5d:84:df	UNKNOWN		-83
+1521555220	2c:fd:ab:5d:84:df	UNKNOWN		-83
+1521555220	2c:fd:ab:5d:84:df	UNKNOWN		-85
+1521555220	2c:fd:ab:5d:84:df	UNKNOWN		-85
+1521555221	f4:8c:50:02:86:81	Intel Corporate	eduroam	-85
+1521555221	2c:fd:ab:5d:70:fc	UNKNOWN		-87
+1521555221	2c:fd:ab:5d:70:fc	UNKNOWN		-83
+1521555221	2c:fd:ab:5d:70:fc	UNKNOWN		-83
+1521555221	60:f1:89:88:cb:fa	Murata Manufacturing Co., Ltd.	homerun1x	-87
+1521555221	2c:fd:ab:5d:70:fc	UNKNOWN		-85
+1521555222	94:65:2d:d6:63:07	OnePlus Technology (Shenzhen) Co., Ltd		-75
+1521555222	a4:db:30:55:05:05	Liteon Technology Corporation		-45
+1521555222	a4:db:30:55:05:05	Liteon Technology Corporation		-43
+1521555222	28:3f:69:cb:e4:9f	Sony Mobile Communications AB		-29
+1521555222	28:3f:69:cb:e4:9f	Sony Mobile Communications AB		-29
+1521555222	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd		-81
+1521555222	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd	Telia wifi1x	-81
+1521555222	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd	homerun1x	-79
+1521555222	f0:ee:10:2c:35:46	Samsung Electronics Co.,Ltd		-81
+1521555223	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555223	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-51
+1521555224	06:46:3b:70:63:aa	UNKNOWN		-83
+1521555226	0e:34:de:e9:45:6f	UNKNOWN		-75
+1521555226	0e:34:de:e9:45:6f	UNKNOWN		-75
+1521555226	d0:c5:f3:8b:45:2b	Apple, Inc.	eduroam	-89
+1521555227	94:65:2d:d6:63:07	OnePlus Technology (Shenzhen) Co., Ltd		-71
+1521555228	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-71
+1521555228	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-73
+1521555228	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-71
+1521555228	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-71
+1521555228	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-71
+1521555228	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-71
+1521555228	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-71
+1521555228	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-75
+1521555228	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-73
+1521555228	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-73
+1521555228	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TP-LINK_2470_5G	-69
+1521555228	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-73
+1521555228	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-75
+1521555228	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Campusbussen	-73
+1521555228	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-73
+1521555228	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-73
+1521555230	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-57
+1521555230	3e:cc:2a:51:ca:3e	UNKNOWN		-85
+1521555230	2c:fd:ab:5d:70:f4	UNKNOWN		-87
+1521555463	30:07:4d:6f:96:e9	UNKNOWN	Telia wifi1x	-71
+1521555463	30:07:4d:6f:96:e9	UNKNOWN	homerun1x	-71
+1521555463	30:07:4d:6f:96:e9	UNKNOWN		-69
+1521555463	30:07:4d:6f:96:e9	UNKNOWN	Telia wifi1x	-71
+1521555463	30:07:4d:6f:96:e9	UNKNOWN	homerun1x	-73
+1521555463	30:07:4d:6f:96:e9	UNKNOWN		-73
+1521555464	da:a1:19:93:a3:ce	UNKNOWN		-87
+1521555465	00:db:df:5b:4b:18	Intel Corporate	eduroam	-87
+1521555466	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-69
+1521555466	1a:83:bb:d4:bb:23	UNKNOWN		-83
+1521555466	1a:83:bb:d4:bb:23	UNKNOWN		-81
+1521555466	c0:ee:fb:d5:38:11	OnePlus Tech (Shenzhen) Ltd		-89
+1521555466	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-53
+1521555466	ac:5f:3e:31:d4:85	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-85
+1521555466	48:74:6e:dd:76:0e	Apple, Inc.		-67
+1521555467	48:74:6e:dd:76:0e	Apple, Inc.		-67
+1521555468	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-71
+1521555468	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-69
+1521555468	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-71
+1521555468	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TP-LINK_2470_5G	-71
+1521555468	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-69
+1521555468	28:3f:69:35:e5:b9	Sony Mobile Communications AB	VICTOR-ASUS-ROG	-69
+1521555468	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Campusbussen	-69
+1521555468	28:3f:69:35:e5:b9	Sony Mobile Communications AB		-69
+1521555468	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-75
+1521555468	72:4d:53:e6:aa:1b	UNKNOWN		-85
+1521555468	e4:58:b8:0e:07:cd	Samsung Electronics Co.,Ltd	eduroam	-83
+1521555468	e4:58:b8:0e:07:cd	Samsung Electronics Co.,Ltd	eduroam	-83
+1521555469	da:a1:19:1f:7c:f6	UNKNOWN		-85
+1521555469	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-75
+1521555470	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-77
+1521555470	40:b8:9a:38:1c:4b	Hon Hai Precision Ind. Co.,Ltd.		-77
+1521555470	02:51:f5:ed:13:4b	UNKNOWN		-81
+1521555470	2c:fd:ab:5d:70:fc	UNKNOWN		-85
+1521555470	2c:fd:ab:5d:70:fc	UNKNOWN		-83
+1521555470	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555470	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-55
+1521555471	2c:fd:ab:5d:70:f4	UNKNOWN		-77
+1521555471	2c:fd:ab:5d:70:f4	UNKNOWN		-77
+1521555471	d6:0e:d8:42:9f:77	UNKNOWN		-75
+1521555472	ac:b5:7d:d0:34:94	Liteon Technology Corporation		-71
+1521555472	02:ee:96:95:dc:6a	UNKNOWN		-67
+1521555472	02:ee:96:95:dc:6a	UNKNOWN		-67
+1521555474	aa:1a:11:a2:a0:99	UNKNOWN		-75
+1521555474	e4:f8:9c:26:8b:3a	Intel Corporate		-81
+1521555475	b6:ed:f6:76:c3:65	UNKNOWN		-87
+1521555476	94:65:2d:d4:36:de	OnePlus Technology (Shenzhen) Co., Ltd		-53
+1521555476	94:65:2d:40:22:30	OnePlus Technology (Shenzhen) Co., Ltd		-65
+1521555476	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TeliaGatewayA4-B1-E9-DB-D6-33	-71
+1521555476	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TN_private_F4NEPC	-71
+1521555476	28:3f:69:35:e5:b9	Sony Mobile Communications AB	LiU	-71
+1521555476	28:3f:69:35:e5:b9	Sony Mobile Communications AB	TP-LINK_2470_5G	-71
+1521555476	28:3f:69:35:e5:b9	Sony Mobile Communications AB	Victor-acer-aspire3	-71
+1521555476	f4:96:34:1d:91:97	Intel Corporate		-71
+1521555477	2c:fd:ab:5d:70:37	UNKNOWN		-85
+1521555478	2c:fd:ab:5d:70:fc	UNKNOWN		-85
