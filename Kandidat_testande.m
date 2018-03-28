@@ -35,7 +35,7 @@ count=tabulate(mac);
 tot_time = tid(length(tid))-tid(1);
 fp = 0.03; %max arrivals/s
 max_arrivals = tot_time*fp;
-
+%%
 %eliminera adresser med hänsyn till maxfrekvens 
 %FÖLJANDE ÄR INTE KLART:
 i = 1;
