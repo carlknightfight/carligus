@@ -1,4 +1,5 @@
 %type test4.txt; %%Skriver ut filen i command window
+clear;
 
 D=readtable('test4.txt','Delimiter','\t','ReadVariableNames',false);
 
@@ -43,7 +44,7 @@ while(i <= length(tid))
     %Behåll endast en av varje probesekvens
  if cell2mat(count(i,2)) > max_arrivals 
      i
-    else 
+ else
      
  end
  i=i+1;
