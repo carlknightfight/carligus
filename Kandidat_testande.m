@@ -1,5 +1,3 @@
-%type test4.txt; %%Skriver ut filen i command window
-clear;
 
 D=readtable('test4.txt','Delimiter','\t','ReadVariableNames',false);
 
@@ -30,72 +28,30 @@ while(i <= length(tid))
  end
 end
 
-%Frekvenseliminering:
+%Eliminera m.a.p. vilken frekvens enheter återkommer:
 count=tabulate(mac);
 
 tot_time = tid(length(tid))-tid(1);
-fp = 0.03; %max arrivals/s
+fp = 0.007; %max arrivals/s
 max_arrivals = tot_time*fp;
-%%
-%eliminera adresser med hänsyn till maxfrekvens 
-%FÖLJANDE ÄR INTE KLART:
+
 i = 1;
-while(i <= length(tid))
-    %Behåll endast en av varje probesekvens
+while(i < length(count(:,2)))
+    
  if cell2mat(count(i,2)) > max_arrivals 
-     i
- else
-     
- end
- i=i+1;
- %Stoppa loopen efter sista cell
- if i==length(tid)
-     break
- end
-end
-
-
-
-%%
-i=1;
-while(i <= length(tid)) 
-    %Behåll endast en av varje probesekvens
- if cell2mat(count(i,2)) > max_arrivals  % cell2mat turns cell into int/double
-     flag = count(i,1);
-     j=1;
-     while(j<=length(tid)) %tar bort alla rader med identifierad mac-adress
-         j
-         i
-         if strcmp((flag),(count(j,1))) 
-        tid(j) =[];
-        mac(j)=[];
-        corp(j)=[];
-        ssid(j)=[];
-        rssi(j)=[];
+     j =1;
+     while(j < length(tid))
+         if strcmp(mac(j),count(i,1))
+         tid(j) =[];
+         mac(j)=[];
+          corp(j)=[];
+          ssid(j)=[];
+          rssi(j)=[];
          else
              j=j+1;
          end
-            if j==length(tid)
-                break
-            end
      end
-     
-    else 
-     i=i+1;
+ else
  end
-        if i==length(tid)
-                break
-        end 
+ i=i+1;
 end
-
-%count(3,2) = tredje countern
-
-
-     
-
-
-
-
-
-
-
