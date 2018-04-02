@@ -13,7 +13,7 @@ rssi = [D.Var5];
 i = 1;
 while(i <= length(tid))
     %Behåll endast en av varje probesekvens
- if strcmp(mac(i),mac(i+1))&& tid(i+1)-tid(i)<2 
+ if strcmp(mac(i),mac(i+1))&& tid(i+1)-tid(i)< 2 %////////////////////////
        tid(i+1) =[];
        mac(i+1)=[];
        corp(i+1)=[];
@@ -30,11 +30,11 @@ end
 
 %Eliminera m.a.p. vilken frekvens enheter återkommer:
 count=tabulate(mac);
-
+%////////////////////////////////////////////////////////////////////////
 tot_time = tid(length(tid))-tid(1);
 fp = 0.007; %max arrivals/s
 max_arrivals = tot_time*fp;
-
+%///////////////////////////////////////////////////////////////////////
 i = 1;
 while(i < length(count(:,2)))
     
