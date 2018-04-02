@@ -1,6 +1,6 @@
-clear; 
-
-D=readtable('21min','Delimiter','\t','ReadVariableNames',false);
+clear;
+tic
+D=readtable('broen0402_G','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
@@ -14,47 +14,55 @@ rssi = [D.Var5];
 i = 1;
 while(i <= length(tid))
     %Behåll endast en av varje probesekvens
- if strcmp(mac(i),mac(i+1))&& tid(i+1)-tid(i)< 2 %////////////////////////
-       tid(i+1) =[];
-       mac(i+1)=[];
-       corp(i+1)=[];
-       ssid(i+1)=[];
-       rssi(i+1)=[];
-    else 
-     i=i+1;
- end
- %Stoppa loopen efter sista cell
- if i==length(tid)
-     break
- end
+    j=1;
+    while(j<=length(tid)) %
+        if i+j < length(tid)
+            if strcmp(mac(i),mac(i+j))&& tid(i+j)-tid(i)< 2  %////////////////////////
+                tid(i+j) =[];
+                mac(i+j)=[];
+                corp(i+j)=[];
+                ssid(i+j)=[];
+                rssi(i+j)=[];
+            else
+                j=j+1;
+            end
+        else
+            j=j+1;
+        end
+    end
+    i=i+1;
+    %Stoppa loopen efter sista cell
+    if i==length(tid)
+        break
+    end
 end
 
 %Eliminera m.a.p. vilken frekvens enheter återkommer:
 count=tabulate(mac);
 %////////////////////////////////////////////////////////////////////////
 tot_time = tid(length(tid))-tid(1);
-fp = 0.007; %max arrivals/s
+fp = 0.01; %max arrivals/s
 max_arrivals = tot_time*fp;
 %///////////////////////////////////////////////////////////////////////
 i = 1;
 while(i < length(count(:,2)))
     
- if cell2mat(count(i,2)) > max_arrivals 
-     j =1;
-     while(j < length(tid))
-         if strcmp(mac(j),count(i,1))
-         tid(j) =[];
-         mac(j)=[];
-          corp(j)=[];
-          ssid(j)=[];
-          rssi(j)=[];
-         else
-             j=j+1;
-         end
-     end
- else
- end
- i=i+1;
+    if cell2mat(count(i,2)) > max_arrivals
+        j =1;
+        while(j < length(tid))
+            if strcmp(mac(j),count(i,1))
+                tid(j) =[];
+                mac(j)=[];
+                corp(j)=[];
+                ssid(j)=[];
+                rssi(j)=[];
+            else
+                j=j+1;
+            end
+        end
+    else
+    end
+    i=i+1;
 end
 
 tid=datetime(tid,'ConvertFrom','posixtime');
@@ -64,4 +72,5 @@ rssi = num2cell(rssi);
 T = cell2table([tid mac corp ssid rssi]);
 
 %Spara ny textfil
-writetable(T,'myData.txt', 'Delimiter', '\t') 
+writetable(T,'myData.txt', 'Delimiter', '\t')
+toc
