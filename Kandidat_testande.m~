@@ -1,4 +1,3 @@
-clear; 
 
 D=readtable('21min','Delimiter','\t','ReadVariableNames',false);
 
@@ -57,7 +56,4 @@ while(i < length(count(:,2)))
  i=i+1;
 end
 
-tid = num2cell(tid);
-rssi = num2cell(rssi);
-
-C = [tid mac corp ssid rssi];
+E = cell2table (tid, mac, corp, ssid, rssi); 
