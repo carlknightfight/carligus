@@ -57,6 +57,8 @@ while(i < length(count(:,2)))
  i=i+1;
 end
 
+tid=datetime(tid,'ConvertFrom','posixtime');
+
 tid = num2cell(tid);
 rssi = num2cell(rssi);
 T = cell2table([tid mac corp ssid rssi]);
