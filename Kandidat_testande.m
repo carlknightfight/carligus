@@ -1,5 +1,5 @@
 
-D=readtable('test4.txt','Delimiter','\t','ReadVariableNames',false);
+D=readtable('21min','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
@@ -55,3 +55,8 @@ while(i < length(count(:,2)))
  end
  i=i+1;
 end
+
+tid = num2cell(tid);
+rssi = num2cell(rssi);
+
+C = [tid mac corp ssid rssi];
