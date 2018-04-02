@@ -73,4 +73,3 @@ Var1	Var2	Var3	Var4	Var5
 02-Apr-2018 08:44:38	0e:f5:d1:f6:fe:0d	UNKNOWN		-38
 02-Apr-2018 08:44:40	0e:f5:d1:f6:fe:0d	UNKNOWN		-54
 02-Apr-2018 08:45:03	0e:f5:d1:f6:fe:0d	UNKNOWN		-76
-02-Apr-2018 08:45:04	0e:f5:d1:f6:fe:0d	UNKNOWN		-26

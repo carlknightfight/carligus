@@ -16,7 +16,7 @@ while(i <= length(tid))
     %Behåll endast en av varje probesekvens
     j=1;
     while(j<=length(tid)) %
-        if i+j < length(tid)
+        if i+j <= length(tid)
             if strcmp(mac(i),mac(i+j))&& tid(i+j)-tid(i)< 2  %////////////////////////
                 tid(i+j) =[];
                 mac(i+j)=[];
