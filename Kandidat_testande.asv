@@ -1,6 +1,6 @@
 clear;
 tic
-D=readtable('broen0402v1_G','Delimiter','\t','ReadVariableNames',false);
+D=readtable('broen0402.1_G','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];

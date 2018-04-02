@@ -1,75 +1,276 @@
 Var1	Var2	Var3	Var4	Var5
-02-Apr-2018 08:36:12	b0:47:bf:f7:85:24	Samsung Electronics Co.,Ltd		-74
-02-Apr-2018 08:36:22	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-56
-02-Apr-2018 08:36:23	48:d2:24:e1:61:f9	Liteon Technology Corporation	eduroam	-76
-02-Apr-2018 08:36:23	84:9f:b5:e7:70:a8	HUAWEI TECHNOLOGIES CO.,LTD		-66
-02-Apr-2018 08:36:31	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-50
-02-Apr-2018 08:36:34	88:53:95:23:95:12	Apple, Inc.		-66
-02-Apr-2018 08:36:35	00:f4:6f:17:0d:cb	Samsung Electronics Co.,Ltd		-70
-02-Apr-2018 08:36:54	e8:93:09:aa:ff:1c	Samsung Electronics Co.,Ltd		-74
-02-Apr-2018 08:37:04	84:9f:b5:e7:70:a8	HUAWEI TECHNOLOGIES CO.,LTD		-66
-02-Apr-2018 08:37:14	da:a1:19:80:43:2e	UNKNOWN		-74
-02-Apr-2018 08:37:22	76:4a:58:2e:31:ff	UNKNOWN		-72
-02-Apr-2018 08:37:23	84:9f:b5:e7:70:a8	HUAWEI TECHNOLOGIES CO.,LTD		-72
-02-Apr-2018 08:37:24	d2:61:f9:51:c5:fb	UNKNOWN		-58
-02-Apr-2018 08:37:24	e8:93:09:aa:ff:1c	Samsung Electronics Co.,Ltd		-60
-02-Apr-2018 08:37:37	8c:f5:a3:6f:4a:94	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-68
-02-Apr-2018 08:37:44	84:9f:b5:e7:70:a8	HUAWEI TECHNOLOGIES CO.,LTD		-66
-02-Apr-2018 08:37:54	70:28:8b:34:5d:b2	Samsung Electronics Co.,Ltd	bert	-74
-02-Apr-2018 08:37:59	84:9f:b5:e7:70:a8	HUAWEI TECHNOLOGIES CO.,LTD		-68
-02-Apr-2018 08:38:01	48:13:7e:ac:67:60	Samsung Electronics Co.,Ltd		-72
-02-Apr-2018 08:38:14	b6:8e:36:26:df:44	UNKNOWN		-68
-02-Apr-2018 08:38:22	ae:5a:0a:c1:66:db	UNKNOWN		-72
-02-Apr-2018 08:38:30	d2:91:7b:2c:5d:38	UNKNOWN		-70
-02-Apr-2018 08:38:32	4c:66:41:3c:ce:4f	SAMSUNG ELECTRO-MECHANICS(THAILAND)	homerun1x	-66
-02-Apr-2018 08:38:40	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-72
-02-Apr-2018 08:38:41	e6:d7:ae:37:46:dd	UNKNOWN		-72
-02-Apr-2018 08:38:42	b6:da:3c:6d:a7:4f	UNKNOWN		-74
-02-Apr-2018 08:38:42	c6:38:13:de:5e:59	UNKNOWN		-74
-02-Apr-2018 08:38:49	ae:c1:a0:2a:e2:20	UNKNOWN		-64
-02-Apr-2018 08:39:16	0e:c2:b6:2a:f3:4c	UNKNOWN		-68
-02-Apr-2018 08:39:19	d2:4e:d6:f0:6b:02	UNKNOWN		-70
-02-Apr-2018 08:39:43	9c:e0:63:33:b8:3a	UNKNOWN		-68
-02-Apr-2018 08:39:45	9c:e0:63:33:b8:3a	UNKNOWN		-68
-02-Apr-2018 08:39:48	e0:a3:ac:76:72:5e	HUAWEI TECHNOLOGIES CO.,LTD		-72
-02-Apr-2018 08:39:50	7a:e6:52:90:d6:32	UNKNOWN		-70
-02-Apr-2018 08:39:51	7a:be:df:59:22:ed	UNKNOWN		-70
-02-Apr-2018 08:39:54	0a:ad:7b:65:61:c9	UNKNOWN		-70
-02-Apr-2018 08:40:00	c0:ee:fb:59:4b:45	OnePlus Tech (Shenzhen) Ltd		-62
-02-Apr-2018 08:40:02	48:13:7e:ac:67:60	Samsung Electronics Co.,Ltd		-76
-02-Apr-2018 08:40:07	3c:f7:a4:85:f0:d9	UNKNOWN		-64
-02-Apr-2018 08:40:17	ac:5f:3e:28:aa:95	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-70
-02-Apr-2018 08:40:25	7c:11:cb:13:a6:ce	HUAWEI TECHNOLOGIES CO.,LTD		-56
-02-Apr-2018 08:40:26	f6:15:0d:78:27:3b	UNKNOWN		-68
-02-Apr-2018 08:40:45	7c:0b:c6:38:49:67	Samsung Electronics Co.,Ltd	Femunden2	-66
-02-Apr-2018 08:40:47	9c:e0:63:33:b8:3a	UNKNOWN		-72
-02-Apr-2018 08:40:52	7e:e5:77:58:44:f8	UNKNOWN		-62
-02-Apr-2018 08:41:01	66:09:87:67:69:99	UNKNOWN		-72
-02-Apr-2018 08:41:22	da:a1:19:c2:ca:0b	UNKNOWN		-72
-02-Apr-2018 08:41:24	66:09:87:67:69:99	UNKNOWN		-60
-02-Apr-2018 08:41:39	4e:c7:00:94:0e:6b	UNKNOWN		-62
-02-Apr-2018 08:41:50	9a:d8:24:40:d3:6d	UNKNOWN		-68
-02-Apr-2018 08:41:56	6e:3e:59:a6:83:24	UNKNOWN		-70
-02-Apr-2018 08:41:57	66:09:87:67:69:99	UNKNOWN		-60
-02-Apr-2018 08:42:01	fa:bd:29:3d:71:55	UNKNOWN		-64
-02-Apr-2018 08:42:21	e8:50:8b:ba:90:cb	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-66
-02-Apr-2018 08:42:33	1c:b9:c4:3e:29:98	Ruckus Wireless		-72
-02-Apr-2018 08:42:40	66:09:87:67:69:99	UNKNOWN		-54
-02-Apr-2018 08:43:00	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-72
-02-Apr-2018 08:43:29	ea:44:0e:bb:60:d5	UNKNOWN		-68
-02-Apr-2018 08:43:48	5a:d9:fa:2d:a9:a9	UNKNOWN		-60
-02-Apr-2018 08:43:55	8c:f5:a3:ef:0c:ba	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-72
-02-Apr-2018 08:43:57	52:fc:0a:9e:74:bc	UNKNOWN		-66
-02-Apr-2018 08:44:03	60:f1:89:59:22:b2	Murata Manufacturing Co., Ltd.		-72
-02-Apr-2018 08:44:05	28:3f:69:c6:cc:7a	Sony Mobile Communications AB		-72
-02-Apr-2018 08:44:08	28:3f:69:c6:cc:7a	Sony Mobile Communications AB		-74
-02-Apr-2018 08:44:11	5a:d9:fa:2d:a9:a9	UNKNOWN		-54
-02-Apr-2018 08:44:13	60:f1:89:59:22:b2	Murata Manufacturing Co., Ltd.	eduroam	-72
-02-Apr-2018 08:44:22	d0:fc:cc:af:19:43	Samsung Electronics Co.,Ltd		-70
-02-Apr-2018 08:44:23	28:3f:69:c6:cc:7a	Sony Mobile Communications AB	LiU	-68
-02-Apr-2018 08:44:25	ca:05:be:ca:93:a1	UNKNOWN		-66
-02-Apr-2018 08:44:26	d0:fc:cc:af:19:43	Samsung Electronics Co.,Ltd		-64
-02-Apr-2018 08:44:34	28:3f:69:c6:cc:7a	Sony Mobile Communications AB	LiU	-76
-02-Apr-2018 08:44:38	0e:f5:d1:f6:fe:0d	UNKNOWN		-38
-02-Apr-2018 08:44:40	0e:f5:d1:f6:fe:0d	UNKNOWN		-54
-02-Apr-2018 08:45:03	0e:f5:d1:f6:fe:0d	UNKNOWN		-76
+02-Apr-2018 13:58:50	da:a1:19:94:04:b4	UNKNOWN		-70
+02-Apr-2018 13:58:51	c6:19:30:b1:d4:d2	UNKNOWN		-74
+02-Apr-2018 13:59:10	da:a1:19:bb:db:90	UNKNOWN		-42
+02-Apr-2018 13:59:34	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-50
+02-Apr-2018 13:59:39	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-60
+02-Apr-2018 13:59:41	da:a1:19:6a:6d:6d	UNKNOWN		-46
+02-Apr-2018 13:59:50	da:a1:19:b3:89:a7	UNKNOWN		-66
+02-Apr-2018 13:59:56	e4:9a:79:6a:71:17	Apple, Inc.	eduroam	-74
+02-Apr-2018 14:00:11	da:a1:19:31:c8:bb	UNKNOWN		-40
+02-Apr-2018 14:00:22	3c:95:09:c3:23:07	UNKNOWN	eduroam	-72
+02-Apr-2018 14:00:24	32:be:ea:09:dc:71	UNKNOWN		-40
+02-Apr-2018 14:00:24	de:a1:12:7b:36:55	UNKNOWN		-50
+02-Apr-2018 14:00:26	e4:ce:8f:3c:12:78	Apple, Inc.		-48
+02-Apr-2018 14:00:28	de:a1:12:7b:36:55	UNKNOWN		-42
+02-Apr-2018 14:00:41	da:a1:19:23:48:b8	UNKNOWN		-22
+02-Apr-2018 14:00:50	da:a1:19:34:2e:35	UNKNOWN		-68
+02-Apr-2018 14:00:51	de:a1:12:7b:36:55	UNKNOWN		-50
+02-Apr-2018 14:00:57	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-72
+02-Apr-2018 14:01:07	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-60
+02-Apr-2018 14:01:17	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-74
+02-Apr-2018 14:01:27	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-70
+02-Apr-2018 14:01:34	30:07:4d:90:39:2d	UNKNOWN		-66
+02-Apr-2018 14:01:37	94:fb:29:10:c1:f6	Zebra Technologies Inc.		-70
+02-Apr-2018 14:01:47	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-68
+02-Apr-2018 14:01:49	f6:e4:63:79:29:fe	UNKNOWN		-70
+02-Apr-2018 14:01:50	da:a1:19:9d:aa:df	UNKNOWN		-72
+02-Apr-2018 14:01:57	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-68
+02-Apr-2018 14:01:58	de:58:b6:dc:6d:27	UNKNOWN		-76
+02-Apr-2018 14:02:01	da:a1:19:9a:99:31	UNKNOWN		-40
+02-Apr-2018 14:02:04	5a:3c:41:6d:e7:ab	UNKNOWN		-72
+02-Apr-2018 14:02:07	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-66
+02-Apr-2018 14:02:09	86:7d:9f:12:ba:86	UNKNOWN		-72
+02-Apr-2018 14:02:11	36:11:ce:08:b0:7a	UNKNOWN		-72
+02-Apr-2018 14:02:17	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-68
+02-Apr-2018 14:02:27	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-62
+02-Apr-2018 14:02:29	f6:e4:63:79:29:fe	UNKNOWN		-70
+02-Apr-2018 14:02:36	2a:14:c9:b3:c3:c7	UNKNOWN		-44
+02-Apr-2018 14:02:36	8a:a0:b7:d4:bc:f4	UNKNOWN		-44
+02-Apr-2018 14:02:37	94:fb:29:10:c1:f6	Zebra Technologies Inc.		-52
+02-Apr-2018 14:02:39	fa:ed:4f:f2:32:08	UNKNOWN		-62
+02-Apr-2018 14:02:46	e6:bf:98:65:66:11	UNKNOWN		-66
+02-Apr-2018 14:02:46	76:93:90:5b:77:1c	UNKNOWN		-68
+02-Apr-2018 14:02:47	94:fb:29:10:c1:f6	Zebra Technologies Inc.		-66
+02-Apr-2018 14:02:50	da:a1:19:c4:78:f9	UNKNOWN		-66
+02-Apr-2018 14:02:53	fe:09:3c:1d:78:4e	UNKNOWN		-72
+02-Apr-2018 14:02:57	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-70
+02-Apr-2018 14:03:05	da:a1:19:b9:8b:75	UNKNOWN		-68
+02-Apr-2018 14:03:07	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-68
+02-Apr-2018 14:03:14	1a:ab:a1:6a:72:d8	UNKNOWN		-72
+02-Apr-2018 14:03:17	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-72
+02-Apr-2018 14:04:01	da:a1:19:43:f5:7e	UNKNOWN		-66
+02-Apr-2018 14:07:17	32:49:6d:bb:7d:60	UNKNOWN		-24
+02-Apr-2018 14:07:17	24:18:1d:de:da:83	UNKNOWN	Telia wifi1x	-74
+02-Apr-2018 14:07:17	7a:90:5f:36:f1:98	UNKNOWN		-72
+02-Apr-2018 14:07:17	9c:5c:f9:ba:6d:af	Sony Mobile Communications AB		-70
+02-Apr-2018 14:07:22	3a:7a:bd:94:14:5c	UNKNOWN		-64
+02-Apr-2018 14:07:23	76:6f:ec:ee:46:be	UNKNOWN		-66
+02-Apr-2018 14:07:25	da:a1:19:5b:b0:9d	UNKNOWN		-68
+02-Apr-2018 14:07:30	fe:95:0e:a1:ea:80	UNKNOWN		-60
+02-Apr-2018 14:07:40	a2:77:17:cc:5b:89	UNKNOWN		-68
+02-Apr-2018 14:07:43	2e:c1:89:69:93:4e	UNKNOWN		-68
+02-Apr-2018 14:07:46	76:6f:ec:ee:46:be	UNKNOWN		-66
+02-Apr-2018 14:07:50	32:49:6d:bb:7d:60	UNKNOWN		-32
+02-Apr-2018 14:07:50	28:3f:69:12:6d:2f	Sony Mobile Communications AB	sks_guest	-72
+02-Apr-2018 14:07:53	28:3f:69:12:6d:2f	Sony Mobile Communications AB	sks_guest	-70
+02-Apr-2018 14:08:06	ee:e5:2b:07:74:64	UNKNOWN	TP-LINK_4D9F_5G	-74
+02-Apr-2018 14:08:12	52:99:e2:8c:4c:34	UNKNOWN		-66
+02-Apr-2018 14:08:15	52:99:e2:8c:4c:34	UNKNOWN		-66
+02-Apr-2018 14:08:20	ec:10:7b:3e:32:1f	Samsung Electronics Co.,Ltd		-72
+02-Apr-2018 14:08:22	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-70
+02-Apr-2018 14:08:33	32:49:6d:bb:7d:60	UNKNOWN		-52
+02-Apr-2018 14:08:33	04:f7:e4:47:8c:98	Apple, Inc.		-72
+02-Apr-2018 14:08:34	e4:ce:8f:3c:12:78	Apple, Inc.	LiU	-40
+02-Apr-2018 14:08:37	04:f7:e4:47:8c:98	Apple, Inc.		-68
+02-Apr-2018 14:08:38	52:99:e2:8c:4c:34	UNKNOWN		-58
+02-Apr-2018 14:08:42	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-54
+02-Apr-2018 14:08:42	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-68
+02-Apr-2018 14:08:46	82:d0:07:20:45:59	UNKNOWN		-68
+02-Apr-2018 14:09:00	ac:1f:74:5c:96:36	UNKNOWN	eduroam	-70
+02-Apr-2018 14:09:10	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-72
+02-Apr-2018 14:09:11	52:99:e2:8c:4c:34	UNKNOWN		-66
+02-Apr-2018 14:09:54	52:99:e2:8c:4c:34	UNKNOWN		-64
+02-Apr-2018 14:09:59	e4:a7:a0:f7:54:68	Intel Corporate		-74
+02-Apr-2018 14:10:03	f4:5c:89:a4:79:0d	Apple, Inc.	Pronova_Konferens	-70
+02-Apr-2018 14:10:09	86:cc:a0:81:31:c9	UNKNOWN		-72
+02-Apr-2018 14:10:10	c2:b2:f6:23:72:ea	UNKNOWN		-68
+02-Apr-2018 14:10:15	d2:ad:b5:08:30:63	UNKNOWN	homerun1x	-70
+02-Apr-2018 14:10:23	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-74
+02-Apr-2018 14:10:24	86:c1:9e:e9:b0:48	UNKNOWN		-72
+02-Apr-2018 14:10:32	c0:bd:d1:ed:32:72	SAMSUNG ELECTRO-MECHANICS(THAILAND)	*Region-guest	-74
+02-Apr-2018 14:10:38	c0:bd:d1:ed:32:72	SAMSUNG ELECTRO-MECHANICS(THAILAND)	*Region-guest	-72
+02-Apr-2018 14:10:42	2e:9a:92:2b:c9:e1	UNKNOWN		-72
+02-Apr-2018 14:10:46	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-50
+02-Apr-2018 14:10:47	52:99:e2:8c:4c:34	UNKNOWN		-66
+02-Apr-2018 14:10:49	c0:bd:d1:ed:32:72	SAMSUNG ELECTRO-MECHANICS(THAILAND)	*Region-guest	-72
+02-Apr-2018 14:10:53	c0:bd:d1:ed:32:72	SAMSUNG ELECTRO-MECHANICS(THAILAND)	*Region-guest	-72
+02-Apr-2018 14:10:54	da:a1:19:11:d3:20	UNKNOWN		-68
+02-Apr-2018 14:10:57	c0:bd:d1:ed:32:72	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-72
+02-Apr-2018 14:11:11	aa:c2:36:17:b1:55	UNKNOWN		-68
+02-Apr-2018 14:11:12	7a:e7:02:c4:03:e9	UNKNOWN		-64
+02-Apr-2018 14:11:15	9a:1e:75:b6:83:65	UNKNOWN		-62
+02-Apr-2018 14:11:17	9e:7e:99:e6:db:37	UNKNOWN		-70
+02-Apr-2018 14:11:18	c0:bd:d1:ed:32:72	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-70
+02-Apr-2018 14:11:26	36:7f:5a:b8:e5:6d	UNKNOWN		-72
+02-Apr-2018 14:11:27	fe:47:a3:b8:82:13	UNKNOWN		-72
+02-Apr-2018 14:11:35	d6:5b:a7:92:5f:2c	UNKNOWN		-74
+02-Apr-2018 14:11:50	52:99:e2:8c:4c:34	UNKNOWN		-48
+02-Apr-2018 14:11:53	fe:04:fb:c7:c1:bf	UNKNOWN		-66
+02-Apr-2018 14:12:45	be:f0:4b:b9:ba:bf	UNKNOWN		-70
+02-Apr-2018 14:12:47	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-44
+02-Apr-2018 14:13:03	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-72
+02-Apr-2018 14:13:05	c0:9f:42:a7:f8:ff	Apple, Inc.		-74
+02-Apr-2018 14:13:10	04:d6:aa:09:e2:97	UNKNOWN	Telia wifi1x	-72
+02-Apr-2018 14:13:12	04:d6:aa:b4:bf:c5	UNKNOWN	Telia wifi1x	-72
+02-Apr-2018 14:13:20	1e:fb:45:85:2a:5f	UNKNOWN		-50
+02-Apr-2018 14:13:28	be:84:90:7b:6f:3e	UNKNOWN	TP-LINK_4D9F_5G	-68
+02-Apr-2018 14:13:46	7a:ae:4f:ed:20:40	UNKNOWN		-72
+02-Apr-2018 14:14:03	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-74
+02-Apr-2018 14:14:06	e4:ce:8f:3c:12:78	Apple, Inc.	LiU	-50
+02-Apr-2018 14:14:13	ca:bd:de:f5:51:bf	UNKNOWN		-66
+02-Apr-2018 14:14:15	ac:5f:3e:1e:99:c3	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-72
+02-Apr-2018 14:14:26	ba:a5:da:7c:92:8d	UNKNOWN		-66
+02-Apr-2018 14:14:48	4c:66:41:ad:be:c2	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-74
+02-Apr-2018 14:14:56	4c:66:41:ad:be:c2	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-68
+02-Apr-2018 14:14:57	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-44
+02-Apr-2018 14:15:16	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-72
+02-Apr-2018 14:15:21	22:cf:ba:db:c8:e8	UNKNOWN		-66
+02-Apr-2018 14:15:26	da:a1:19:7d:48:bb	UNKNOWN		-68
+02-Apr-2018 14:15:26	02:84:19:8c:1e:39	UNKNOWN	homerun1x	-74
+02-Apr-2018 14:15:29	be:d5:33:74:d4:8f	UNKNOWN		-72
+02-Apr-2018 14:15:39	1a:d5:f0:f5:fa:a7	UNKNOWN		-62
+02-Apr-2018 14:15:44	fe:11:35:03:46:eb	UNKNOWN	homerun1x	-56
+02-Apr-2018 14:16:01	8a:f6:c7:7f:ce:e2	UNKNOWN		-72
+02-Apr-2018 14:16:04	94:fb:29:10:c1:f6	Zebra Technologies Inc.	OPTIDEV-STAGE	-72
+02-Apr-2018 14:16:05	ca:4b:b5:f4:f9:93	UNKNOWN		-70
+02-Apr-2018 14:16:29	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-72
+02-Apr-2018 14:16:31	e4:ce:8f:3c:12:78	Apple, Inc.		-52
+02-Apr-2018 14:16:55	da:a1:19:c1:26:73	UNKNOWN		-64
+02-Apr-2018 14:16:58	40:f3:08:da:5c:f8	Murata Manufacturing Co., Ltd.		-72
+02-Apr-2018 14:17:03	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-66
+02-Apr-2018 14:17:03	b2:19:54:7a:d5:cb	UNKNOWN		-72
+02-Apr-2018 14:17:14	1c:b9:c4:3e:29:98	Ruckus Wireless		-72
+02-Apr-2018 14:17:18	a0:9d:c1:29:15:9e	UNKNOWN		-66
+02-Apr-2018 14:17:23	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-68
+02-Apr-2018 14:17:35	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-40
+02-Apr-2018 14:17:37	72:88:77:dc:f8:16	UNKNOWN		-70
+02-Apr-2018 14:17:42	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-70
+02-Apr-2018 14:17:47	94:65:2d:42:ff:f2	OnePlus Technology (Shenzhen) Co., Ltd		-68
+02-Apr-2018 14:17:48	44:6e:e5:77:82:cf	HUAWEI TECHNOLOGIES CO.,LTD		-74
+02-Apr-2018 14:17:49	26:4a:da:75:5a:43	UNKNOWN		-70
+02-Apr-2018 14:17:57	c6:0f:20:b8:f0:0e	UNKNOWN		-58
+02-Apr-2018 14:18:33	06:8a:4c:15:75:20	UNKNOWN		-62
+02-Apr-2018 14:18:43	be:84:90:7b:6f:3e	UNKNOWN	MelinsWifi	-72
+02-Apr-2018 14:18:50	02:59:c4:17:52:d7	UNKNOWN		-72
+02-Apr-2018 14:18:55	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-74
+02-Apr-2018 14:18:57	18:21:95:78:e2:eb	Samsung Electronics Co.,Ltd		-72
+02-Apr-2018 14:18:57	66:3e:88:27:a8:6b	UNKNOWN		-70
+02-Apr-2018 14:18:57	e4:ce:8f:3c:12:78	Apple, Inc.		-52
+02-Apr-2018 14:18:58	ee:84:6c:a8:a8:e7	UNKNOWN		-70
+02-Apr-2018 14:19:02	e6:f6:ce:36:23:43	UNKNOWN		-68
+02-Apr-2018 14:19:05	7c:01:91:71:84:e4	Apple, Inc.	*Region-guest	-64
+02-Apr-2018 14:19:06	9a:ce:3a:be:85:b5	UNKNOWN		-72
+02-Apr-2018 14:19:07	7c:01:91:71:84:e4	Apple, Inc.	*Region-guest	-74
+02-Apr-2018 14:19:07	b8:d7:af:7f:cc:64	Murata Manufacturing Co., Ltd.	base	-74
+02-Apr-2018 14:19:08	86:98:24:a8:f1:01	UNKNOWN		-62
+02-Apr-2018 14:19:09	78:c3:e9:62:65:ac	Samsung Electronics Co.,Ltd	Telia wifi1x	-66
+02-Apr-2018 14:19:10	12:43:d1:05:b8:0e	UNKNOWN		-72
+02-Apr-2018 14:19:18	26:75:37:36:c8:e6	UNKNOWN		-70
+02-Apr-2018 14:19:18	62:79:07:95:f8:d6	UNKNOWN		-72
+02-Apr-2018 14:19:22	16:e5:b9:5e:fd:12	UNKNOWN		-72
+02-Apr-2018 14:19:30	ca:14:27:97:ae:39	UNKNOWN		-72
+02-Apr-2018 14:19:43	f2:5d:52:58:66:bc	UNKNOWN		-72
+02-Apr-2018 14:19:46	c6:ea:58:93:eb:49	UNKNOWN		-70
+02-Apr-2018 14:20:01	96:b4:79:1c:df:fa	UNKNOWN		-72
+02-Apr-2018 14:20:03	c0:ee:fb:4b:a7:ff	OnePlus Tech (Shenzhen) Ltd	eduroam	-72
+02-Apr-2018 14:20:08	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-74
+02-Apr-2018 14:20:11	c0:ee:fb:4b:a7:ff	OnePlus Tech (Shenzhen) Ltd	eduroam	-66
+02-Apr-2018 14:20:15	c0:ee:fb:4b:a7:ff	OnePlus Tech (Shenzhen) Ltd		-60
+02-Apr-2018 14:20:23	4c:66:41:ad:be:c2	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-70
+02-Apr-2018 14:20:24	c0:ee:fb:4b:a7:ff	OnePlus Tech (Shenzhen) Ltd	eduroam	-60
+02-Apr-2018 14:20:27	fa:08:f3:9b:97:67	UNKNOWN		-70
+02-Apr-2018 14:20:27	6e:91:45:c6:03:9a	UNKNOWN		-66
+02-Apr-2018 14:20:37	e2:f3:14:eb:9d:ea	UNKNOWN		-66
+02-Apr-2018 14:20:41	3a:59:aa:5b:d0:6c	UNKNOWN		-76
+02-Apr-2018 14:20:44	ec:9b:f3:45:e5:db	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-74
+02-Apr-2018 14:20:46	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-48
+02-Apr-2018 14:20:48	ec:9b:f3:45:e5:db	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-70
+02-Apr-2018 14:21:00	7c:f9:0e:2e:69:db	Samsung Electronics Co.,Ltd		-74
+02-Apr-2018 14:21:03	2c:ae:2b:94:e1:4f	Samsung Electronics Co.,Ltd	Telia wifi1x	-54
+02-Apr-2018 14:21:05	7c:f9:0e:2e:69:db	Samsung Electronics Co.,Ltd		-70
+02-Apr-2018 14:21:14	1c:b9:c4:3e:29:98	Ruckus Wireless	Larande Guest	-72
+02-Apr-2018 14:21:22	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-74
+02-Apr-2018 14:21:23	1c:b9:c4:3e:4a:78	Ruckus Wireless		-72
+02-Apr-2018 14:21:23	e4:ce:8f:3c:12:78	Apple, Inc.	LiU	-30
+02-Apr-2018 14:21:25	e4:ce:8f:3c:12:78	Apple, Inc.	LiU	-26
+02-Apr-2018 14:21:28	76:67:94:96:5d:2a	UNKNOWN		-68
+02-Apr-2018 14:21:35	48:13:7e:02:86:78	Samsung Electronics Co.,Ltd		-68
+02-Apr-2018 14:21:36	a6:38:c0:b7:de:83	UNKNOWN	homerun1x	-70
+02-Apr-2018 14:21:37	22:45:c8:9f:c1:2f	UNKNOWN	homerun1x	-72
+02-Apr-2018 14:21:43	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-70
+02-Apr-2018 14:22:25	7a:7e:5e:59:42:04	UNKNOWN		-70
+02-Apr-2018 14:22:26	c6:3e:ef:b7:05:3a	UNKNOWN		-72
+02-Apr-2018 14:22:34	f2:a8:cf:5b:76:89	UNKNOWN	homerun1x	-70
+02-Apr-2018 14:22:34	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-72
+02-Apr-2018 14:22:47	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-56
+02-Apr-2018 14:22:54	52:60:28:54:96:19	UNKNOWN		-64
+02-Apr-2018 14:22:59	b0:72:bf:7b:12:72	Murata Manufacturing Co., Ltd.		-74
+02-Apr-2018 14:23:05	ba:0f:d3:f2:60:54	UNKNOWN		-72
+02-Apr-2018 14:23:06	ce:49:43:a2:0f:2c	UNKNOWN		-72
+02-Apr-2018 14:23:08	22:b1:19:fb:12:a6	UNKNOWN		-64
+02-Apr-2018 14:23:12	8a:34:65:5a:9e:8e	UNKNOWN		-74
+02-Apr-2018 14:23:48	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-48
+02-Apr-2018 14:23:48	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-72
+02-Apr-2018 14:23:50	e4:ce:8f:3c:12:78	Apple, Inc.	LiU	-48
+02-Apr-2018 14:23:56	e4:ce:8f:3c:12:78	Apple, Inc.		-60
+02-Apr-2018 14:24:00	f4:5c:89:a4:79:0d	Apple, Inc.	Pronova_Konferens	-72
+02-Apr-2018 14:24:10	be:96:19:c3:21:ff	UNKNOWN		-66
+02-Apr-2018 14:24:20	e6:99:bd:ca:d4:55	UNKNOWN		-62
+02-Apr-2018 14:24:36	4c:66:41:ad:be:c2	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-72
+02-Apr-2018 14:24:38	4c:66:41:ad:be:c2	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-68
+02-Apr-2018 14:24:44	4c:66:41:ad:be:c2	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-72
+02-Apr-2018 14:24:48	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-54
+02-Apr-2018 14:25:00	4c:66:41:ad:be:c2	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-70
+02-Apr-2018 14:25:01	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-72
+02-Apr-2018 14:25:02	24:18:1d:94:16:68	UNKNOWN	*Region-guest	-72
+02-Apr-2018 14:25:07	28:3f:69:1b:2b:17	Sony Mobile Communications AB	nrkOpen	-68
+02-Apr-2018 14:25:19	76:77:ec:4c:20:2b	UNKNOWN		-72
+02-Apr-2018 14:25:23	8c:f5:a3:75:09:12	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-74
+02-Apr-2018 14:25:28	da:a1:19:9a:70:f8	UNKNOWN		-72
+02-Apr-2018 14:25:36	28:3f:69:1b:2b:17	Sony Mobile Communications AB		-72
+02-Apr-2018 14:25:36	4c:66:41:ad:be:c2	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-70
+02-Apr-2018 14:25:37	0a:08:93:e3:25:79	UNKNOWN		-70
+02-Apr-2018 14:25:43	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-66
+02-Apr-2018 14:25:43	8c:f5:a3:75:09:12	SAMSUNG ELECTRO-MECHANICS(THAILAND)		-66
+02-Apr-2018 14:25:50	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-44
+02-Apr-2018 14:25:52	da:a1:19:d5:0a:d4	UNKNOWN		-74
+02-Apr-2018 14:25:58	fe:b0:f4:b9:64:80	UNKNOWN		-70
+02-Apr-2018 14:25:59	d2:d8:dd:31:41:91	UNKNOWN		-68
+02-Apr-2018 14:26:00	70:8a:09:a4:35:7d	HUAWEI TECHNOLOGIES CO.,LTD		-66
+02-Apr-2018 14:26:03	1c:b9:c4:3e:4a:78	Ruckus Wireless	Larande Guest	-66
+02-Apr-2018 14:26:11	da:a1:19:10:ce:ed	UNKNOWN		-70
+02-Apr-2018 14:26:14	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-72
+02-Apr-2018 14:26:17	26:88:d1:27:7f:79	UNKNOWN		-56
+02-Apr-2018 14:26:22	e4:ce:8f:3c:12:78	Apple, Inc.	LiU	-42
+02-Apr-2018 14:26:23	1c:b9:c4:3e:4a:78	Ruckus Wireless		-70
+02-Apr-2018 14:26:28	e4:ce:8f:3c:12:78	Apple, Inc.	LiU	-66
+02-Apr-2018 14:26:34	be:c4:cf:2a:f4:7d	UNKNOWN		-70
+02-Apr-2018 14:26:35	e4:ce:8f:3c:12:78	Apple, Inc.		-52
+02-Apr-2018 14:26:37	da:a1:19:0e:e4:98	UNKNOWN		-70
+02-Apr-2018 14:26:37	da:a1:19:cf:13:fe	UNKNOWN		-72
+02-Apr-2018 14:26:38	a2:ad:00:42:a3:ec	UNKNOWN		-32
+02-Apr-2018 14:26:40	4c:66:41:ad:be:c2	SAMSUNG ELECTRO-MECHANICS(THAILAND)	Telia wifi1x	-72
+02-Apr-2018 14:26:48	da:a1:19:a2:41:2c	UNKNOWN		-64
+02-Apr-2018 14:26:48	da:a1:19:47:8b:3f	UNKNOWN		-60
+02-Apr-2018 14:26:49	da:a1:19:34:78:2c	UNKNOWN		-72
+02-Apr-2018 14:26:51	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-56
+02-Apr-2018 14:26:52	da:a1:19:6c:9a:53	UNKNOWN		-70
+02-Apr-2018 14:27:01	da:ff:80:24:33:69	UNKNOWN		-74
+02-Apr-2018 14:27:02	a2:ad:00:42:a3:ec	UNKNOWN		-38
+02-Apr-2018 14:27:04	e4:ce:8f:3c:12:78	Apple, Inc.	LiU	-36
+02-Apr-2018 14:27:10	8c:45:00:00:d9:f0	UNKNOWN	Open WiFi Norrkoping	-72
+02-Apr-2018 14:27:27	2c:d0:5a:e7:b3:c2	Liteon Technology Corporation		-74
+02-Apr-2018 14:27:38	ba:2a:37:1f:0e:9f	UNKNOWN		-68
+02-Apr-2018 14:27:49	7c:f9:0e:2e:69:db	Samsung Electronics Co.,Ltd		-72
+02-Apr-2018 14:27:51	c0:ee:fb:9a:69:85	OnePlus Tech (Shenzhen) Ltd		-70
+02-Apr-2018 14:27:52	88:63:df:79:9d:d5	Apple, Inc.	C	-70
+02-Apr-2018 14:27:53	8a:95:5e:8a:2b:48	UNKNOWN		-66
+02-Apr-2018 14:27:54	7c:f9:0e:2e:69:db	Samsung Electronics Co.,Ltd		-66
+02-Apr-2018 14:27:56	8a:95:5e:8a:2b:48	UNKNOWN		-72
+02-Apr-2018 14:27:56	2c:ae:2b:94:e1:4f	Samsung Electronics Co.,Ltd	Telia wifi1x	-68
+02-Apr-2018 14:28:05	5a:ab:3a:46:74:ba	UNKNOWN		-68
+02-Apr-2018 14:28:12	c0:bd:d1:e7:b6:7e	SAMSUNG ELECTRO-MECHANICS(THAILAND)	11114444	-66
+02-Apr-2018 14:28:17	da:ff:80:24:33:69	UNKNOWN		-74
+02-Apr-2018 14:28:18	c2:9b:ff:84:18:8d	UNKNOWN	homerun1x	-72
+02-Apr-2018 14:28:29	00:ae:fa:7f:db:22	Murata Manufacturing Co., Ltd.		-66
