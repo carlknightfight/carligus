@@ -1,0 +1,33 @@
+%% kolla efter en adress
+clear
+
+D=readtable('broen0402v1_C','Delimiter','\t','ReadVariableNames',false);
+
+tid = [D.Var1];
+mac = [D.Var2];
+corp = [D.Var3];
+ssid = [D.Var4];
+rssi = [D.Var5];
+
+calle = 'c0:ee:fb:9a:69:85';
+
+int i=1;
+while ( i<=length(tid))
+    if strcmp(mac(i),calle)equals)  %////////////////////////
+        
+        tid(i) =[];
+        corp(i)=[];
+        ssid(i)=[];
+        rssi(i)=[];
+        
+    else
+        i=i+1;
+    end
+    
+    
+    %Stoppa loopen efter sista cell
+    if i==length(tid)
+        break
+    end
+end
+
