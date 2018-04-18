@@ -1,6 +1,6 @@
 clear;
 tic
-D=readtable('broen0402v1_G','Delimiter','\t','ReadVariableNames',false);
+D=readtable('t1_new','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
@@ -17,9 +17,9 @@ while(i <= length(tid))
     j=1;
     while(j<=length(tid)) %
         if i+j <= length(tid)
-            if strcmp(mac(i),mac(i+j))&& tid(i+j)-tid(i)< 2  %////////////////////////
-                tid(i+j) =[];
-                mac(i+j)=[];
+            if strcmp(mac(i),mac(i+j))&& tid(i+j)-tid(i)< 3  %////////////////////////
+              tid(i+j) =[];
+               mac(i+j)=[];
                 corp(i+j)=[];
                 ssid(i+j)=[];
                 rssi(i+j)=[];
@@ -41,7 +41,7 @@ end
 count=tabulate(mac);
 %////////////////////////////////////////////////////////////////////////
 tot_time = tid(length(tid))-tid(1);
-fp = 0.01; %max arrivals/s
+fp = 0.007; %max arrivals/s
 max_arrivals = tot_time*fp;
 %///////////////////////////////////////////////////////////////////////
 i = 1;
@@ -65,7 +65,8 @@ while(i < length(count(:,2)))
     i=i+1;
 end
 
-tid=datetime(tid,'ConvertFrom','posixtime');
+tid=datetime(tid,'ConvertFrom','posixtime', 'TimeZone', 'Europe/Amsterdam');
+%tid.TimeZone ='Europe/London';
 
 tid = num2cell(tid);
 rssi = num2cell(rssi);
