@@ -1,6 +1,10 @@
 clear;
 tic
+<<<<<<< HEAD
 D=readtable('t1_new','Delimiter','\t','ReadVariableNames',false);
+=======
+D=readtable('broen0402v1_C','Delimiter','\t','ReadVariableNames',false);
+>>>>>>> 140357808c8fb836f5cb1436d82eb06c65d7728d
 
 tid = [D.Var1];
 mac = [D.Var2];
