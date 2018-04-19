@@ -1,7 +1,7 @@
 %% kolla efter en adress
 clear
 
-D=readtable('broen0402v1_C','Delimiter','\t','ReadVariableNames',false);
+D=readtable('kuk','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
@@ -26,7 +26,7 @@ while ( i<=length(tid))
     
     
     %Stoppa loopen efter sista cell
-    if i==length(tid)
+    if i==length(tid)+1
         break
     end
 end
@@ -38,5 +38,5 @@ rssi = num2cell(rssi);
 T = cell2table([tid mac corp ssid rssi]);
 
 %Spara ny textfil
-writetable(T,'myData.txt', 'Delimiter', '\t')
+writetable(T,'kuk_klar.txt', 'Delimiter', '\t')
 
