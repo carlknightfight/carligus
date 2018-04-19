@@ -71,6 +71,24 @@ tid=datetime(tid,'ConvertFrom','posixtime', 'TimeZone', 'Europe/Amsterdam');
 
 bin = discretize(tid,'Minute');
 bins = histcounts(bin);
+
+%/////////////////////
+% Dela in i tio.
+%////////////////////
+% bins10 = zeros(round(length(bins)/10),1);
+% bin(end:numel(bins))=0; 
+% for i=1:1:(length(bins10))
+%    if i < length(bins10)
+%     bins10(i) = sum(bins(1+(10*(i-1)):10*i));
+%   
+%    else
+%       bins10(i) = sum(bins(1+(10*(i-1)):(10*length(bins)/10))); 
+%    end
+% end
+
+
+% fyll i tid(1) hårdkodad. Så att vi får tiden då vi börjar probea. inte
+% första proben. 
 tidsplot = tid(1) + minutes(0:(length(bins)-1));
 plot(tidsplot,bins);
 
