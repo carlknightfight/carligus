@@ -71,16 +71,9 @@ tid=datetime(tid,'ConvertFrom','posixtime', 'TimeZone', 'Europe/Amsterdam');
 
 bin = discretize(tid,'Minute');
 bins = histcounts(bin);
-plot(tid,bins);
+tidsplot = tid(1) + minutes(0:(length(bins)-1));
+plot(tidsplot,bins);
 
-% tid.Minute;
-% min_count = zeros(length(tid.Minute),1);
-% for i = 1:length(tid)
-%     min = tid(i).Minute;
-%     min_count(min+1) = min_count(min+1) + 1;
-% end
-
-%plot(tid,min_count);
 
 tid = num2cell(tid);
 rssi = num2cell(rssi);
