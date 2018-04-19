@@ -1,7 +1,7 @@
 clear;
 tic
 
-D=readtable('t1_new','Delimiter','\t','ReadVariableNames',false);
+D=readtable('tag1_c','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
@@ -19,8 +19,8 @@ while(i <= length(tid))
     while(j<=length(tid)) %
         if i+j <= length(tid)
             if strcmp(mac(i),mac(i+j))&& tid(i+j)-tid(i)< 3  %////////////////////////
-              tid(i+j) =[];
-               mac(i+j)=[];
+                tid(i+j) =[];
+                mac(i+j)=[];
                 corp(i+j)=[];
                 ssid(i+j)=[];
                 rssi(i+j)=[];
@@ -68,6 +68,19 @@ end
 
 tid=datetime(tid,'ConvertFrom','posixtime', 'TimeZone', 'Europe/Amsterdam');
 %tid.TimeZone ='Europe/London';
+
+bin = discretize(tid,'Minute');
+bins = histcounts(bin);
+plot(tid,bins);
+
+% tid.Minute;
+% min_count = zeros(length(tid.Minute),1);
+% for i = 1:length(tid)
+%     min = tid(i).Minute;
+%     min_count(min+1) = min_count(min+1) + 1;
+% end
+
+%plot(tid,min_count);
 
 tid = num2cell(tid);
 rssi = num2cell(rssi);
