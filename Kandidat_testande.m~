@@ -71,18 +71,17 @@ tid=datetime(tid,'ConvertFrom','posixtime', 'TimeZone', 'Europe/Amsterdam');
 
 bin = discretize(tid,'Minute');
 bins = histcounts(bin);
-tidsplot = tid(1) + minutes();
-%tidplot 
-%plot(tid,bins);
 
-% tid.Minute;
-% min_count = zeros(length(tid.Minute),1);
-% for i = 1:length(tid)
-%      min = tid(i).Minute;
-%     min_count(min+1) = min_count(min+1) + 1;
-% end
+bins10 = zeros(round(length(bins)/10),1);
 
-%plot(tid,min_count);
+for i=1:1:length(bins10)
+    bins10(i) = sum(bins((1+(10*(i-1)-1)):10*i-1));
+end
+% fyll i tid(1) hårdkodad. Så att vi får tiden då vi börjar probea. inte
+% första proben. 
+tidsplot = tid(1) + minutes(0:(length(bins)-1));
+plot(tidsplot,bins);
+
 
 tid = num2cell(tid);
 rssi = num2cell(rssi);
