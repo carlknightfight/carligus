@@ -1,7 +1,7 @@
 clear;
 tic
 
-D=readtable('tag1_g','Delimiter','\t','ReadVariableNames',false);
+D=readtable('tag3_c','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
@@ -18,7 +18,7 @@ while(i <= length(tid))
     j=1;
     while(j<=length(tid)) %
         if i+j <= length(tid)
-            if strcmp(mac(i),mac(i+j))&& tid(i+j)-tid(i)< 3  %////////////////////////
+            if strcmp(mac(i),mac(i+j))&& tid(i+j)-tid(i)< 60  %////////////////////////
                 tid(i+j) =[];
                 mac(i+j)=[];
                 corp(i+j)=[];
@@ -94,11 +94,12 @@ figure
 plot(tidsplot,bins);
 title('Gåendetrafikanter resecentrum, 18/4 (14:25-14:55)')
 xlabel('Tidpunkt') 
-chr = 'Antal uppfattade';
-chr = [chr newline 'enheter/minut']
 
-ylabel(chr)
-set(get(gca,'ylabel'),'rotation',0)
+ylabel({'Antal uppfattade'; 'enheter/minut'})
+
+%set(get(gca,'ylabel'),'rotation',0, 'Position', [-0.1, 0.5, 0])
+set(get(gca,'ylabel'),'rotation',0, 'Units', 'Normalized', 'Position', [-0.1, 0.5, 0]);
+grid on
 
 tid = num2cell(tid);
 rssi = num2cell(rssi);
