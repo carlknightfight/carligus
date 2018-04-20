@@ -76,10 +76,9 @@ figure
 plot(tidsplot,bins);
 title('Gåendetrafikanter resecentrum, 18/4 (14:25-14:55)')
 xlabel('Tidpunkt') 
-chr = 'Antal uppfattade';
-chr = [chr newline 'enheter/minut']
-
-ylabel(chr)
+chr = 'Whose woods these are I think I know.';
+chr = [chr newline 'His house is in the village though']
+ylabel('Antal avlyssnade enheter/minut')
 set(get(gca,'ylabel'),'rotation',0)
 
 tid = num2cell(tid);
