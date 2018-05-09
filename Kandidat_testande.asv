@@ -91,22 +91,19 @@ bins(length(bins))=[];
 % fyll i tid(1) hårdkodad. Så att vi får tiden då vi börjar probea. inte
 % första proben. 
 tidsplot = tid(1) + minutes(0:(length(bins)-1));
- y = [28 27 14 49 26 27 26 37 33 15 23 27 19 36 35 18 34 22 32 28 35 37 26 24 24 25 38 22 30 20]; % 09-05-2018 kl 16:17-16:46
+% y = [28 27 14 49 26 27 26 37 33 15 23 27 19 36 35 18 34 22 32 28 35 37 26 24 24 25 38 22 30 20]; % 09-05-2018
 
- %relay = relation mellan signal och trafikanter
 relay = [length(y)];
-i=1;
 while(i <= length(y))
    relay(i) = y(i)/bins(i); 
-   i = i+1;
 end
 
 figure
 plot(tidsplot,bins);
-%plot(tidsplot,relay);
 hold on
 title('Gåendetrafikanter resecentrum, 18/4 (14:25-14:55)')
 xlabel('Tidpunkt') 
+plot(relay);
 ylabel({'Antal uppfattade'; 'enheter/minut'})
 
 
