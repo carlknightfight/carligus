@@ -1,7 +1,7 @@
 clear;
 tic
 
-D=readtable('tag3_c','Delimiter','\t','ReadVariableNames',false);
+D=readtable('','Delimiter','\t','ReadVariableNames',false);
 
 
 tid = [D.Var1];
@@ -88,12 +88,12 @@ bins = histcounts(bin);
 % end
 
 
-% fyll i tid(1) hårdkodad. Så att vi får tiden då vi börjar probea. inte
-% första proben. 
+% fyll i tid(1) hï¿½rdkodad. Sï¿½ att vi fï¿½r tiden dï¿½ vi bï¿½rjar probea. inte
+% fï¿½rsta proben. 
 tidsplot = tid(1) + minutes(0:(length(bins)-1));
 figure
 plot(tidsplot,bins);
-title('Gåendetrafikanter resecentrum, 18/4 (14:25-14:55)')
+title('GÃ¥endetrafikanter resecentrum, 18/4 (14:25-14:55)')
 xlabel('Tidpunkt') 
 
 ylabel({'Antal uppfattade'; 'enheter/minut'})
