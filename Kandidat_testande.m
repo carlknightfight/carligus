@@ -3,18 +3,19 @@ tic
 
 D=readtable('bron090518','Delimiter','\t','ReadVariableNames',false);
 
+
 tid = [D.Var1];
 mac = [D.Var2];
 corp = [D.Var3];
 ssid = [D.Var4];
 rssi = [D.Var5];
 
-% jämför om samma macadress tf = strcmp(mac(5),mac(6))
+% jï¿½mfï¿½r om samma macadress tf = strcmp(mac(5),mac(6))
 % ta bort cell: tid1(1) = [];
 
 i = 1;
 while(i <= length(tid))
-    %Behåll endast en av varje probesekvens
+    %Behï¿½ll endast en av varje probesekvens
     j=1;
     while(j<=length(tid)) %
         if i+j <= length(tid)
@@ -38,7 +39,7 @@ while(i <= length(tid))
     end
 end
 
-%Eliminera m.a.p. vilken frekvens enheter återkommer:
+%Eliminera m.a.p. vilken frekvens enheter ï¿½terkommer:
 count=tabulate(mac);
 %////////////////////////////////////////////////////////////////////////
 tot_time = tid(length(tid))-tid(1);

@@ -1,7 +1,7 @@
 %% kolla efter en adress
 clear
 
-D=readtable('kuk','Delimiter','\t','ReadVariableNames',false);
+D=readtable('tag1_c','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
