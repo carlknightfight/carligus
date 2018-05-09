@@ -1,7 +1,7 @@
 clear;
 tic
 
-D=readtable('tag3_c','Delimiter','\t','ReadVariableNames',false);
+D=readtable('bron090518','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
