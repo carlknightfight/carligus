@@ -1,8 +1,8 @@
 clear;
 tic
 
-D=readtable('','Delimiter','\t','ReadVariableNames',false);
 
+D=readtable('broen_c_090518','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
@@ -72,6 +72,7 @@ tid=datetime(tid,'ConvertFrom','posixtime', 'TimeZone', 'Europe/Amsterdam');
 
 bin = discretize(tid,'Minute');
 bins = histcounts(bin);
+bins(length(bins))=[];
 
 %/////////////////////
 % Dela in i tio.
@@ -91,16 +92,28 @@ bins = histcounts(bin);
 % fyll i tid(1) hï¿½rdkodad. Sï¿½ att vi fï¿½r tiden dï¿½ vi bï¿½rjar probea. inte
 % fï¿½rsta proben. 
 tidsplot = tid(1) + minutes(0:(length(bins)-1));
+ y = [28 27 14 49 26 27 26 37 33 15 23 27 19 36 35 18 34 22 32 28 35 37 26 24 24 25 38 22 30 20]; % 09-05-2018 kl 16:17-16:46
+
+ %relay = relation mellan signal och trafikanter
+relay = [length(y)];
+i=1;
+while(i <= length(y))
+   relay(i) = y(i)/bins(i); 
+   i = i+1;
+end
+
 figure
 plot(tidsplot,bins);
-title('GÃ¥endetrafikanter resecentrum, 18/4 (14:25-14:55)')
+hold on
+title('Gåendetrafikanter resecentrum, 18/4 (14:25-14:55)')
 xlabel('Tidpunkt') 
-
 ylabel({'Antal uppfattade'; 'enheter/minut'})
+
 
 %set(get(gca,'ylabel'),'rotation',0, 'Position', [-0.1, 0.5, 0])
 set(get(gca,'ylabel'),'rotation',0, 'Units', 'Normalized', 'Position', [-0.1, 0.5, 0]);
 grid on
+plot(tidsplot,y);
 
 tid = num2cell(tid);
 rssi = num2cell(rssi);
