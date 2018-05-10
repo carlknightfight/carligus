@@ -3,6 +3,7 @@ tic
 
 D=readtable('bron100518','Delimiter','\t','ReadVariableNames',false);
 
+
 tid = [D.Var1];
 mac = [D.Var2];
 corp = [D.Var3];
@@ -88,8 +89,8 @@ bins(length(bins))=[];
 % end
 
 
-% fyll i tid(1) hårdkodad. Så att vi får tiden då vi börjar probea. inte
-% första proben. 
+% fyll i tid(1) hï¿½rdkodad. Sï¿½ att vi fï¿½r tiden dï¿½ vi bï¿½rjar probea. inte
+% fï¿½rsta proben. 
 tidsplot = tid(1) + minutes(0:(length(bins)-1));
 y = [28 27 14 49 26 27 26 37 33 15 23 27 19 36 35 18 34 22 32 28 35 37 26 24 24 25 38 22 30 20]; % 09-05-2018 kl 16:17-16:46
 y2 = [7 0 5 6 9 9 5 7 7 2 6 7 7 13 15 13 10 7 4 19 4 16 7 12 9 6 10 7 17 7]; % 10-05-2018 kl 08:42-09:12
