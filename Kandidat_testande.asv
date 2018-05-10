@@ -108,19 +108,18 @@ end
 
 %bins09=bins;
 figure
-plot(tidsplot,bins, '--');
+plot(tidsplot,bins);
 %plot(tidsplot,relay);
 hold on
-%title('Experimentering: Hastighetsbegränsning 70 km/h (Bravikenvägen), 27/4 kl 15:56-16:26 ','FontSize',18)
-xlabel('Minut','FontSize',18) ;
-ylabel('Antal','FontSize',18);
+title('Experimentering 70-väg (Bravikenvägen), 27/4 kl 15:56-16:26 ')
+xlabel('Minut') 
+ylabel({'Antal'})
 
 %set(get(gca,'ylabel'),'rotation',0, 'Position', [-0.1, 0.5, 0])
-set(get(gca,'ylabel'),'rotation',0, 'Units', 'Normalized', 'Position', [-0.05, 0.5, 0]);
+set(get(gca,'ylabel'),'rotation',0, 'Units', 'Normalized', 'Position', [-0, 0.5, 0]);
 grid on
-plot(tidsplot,y);
-legend( {'Avlyssnade sondsignaler', 'Passerande trafikanter'},'FontSize',18)
-set(gca,'FontSize',20);
+plot(tidsplot,y, '--');
+legend( {'Avlyssnade sondsignaler', 'Passerande trafikanter'},'FontSize',14)
 %plot(minuter,y2,'--');
 %plot(minuter, bins09);
 
