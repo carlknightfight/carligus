@@ -1,7 +1,7 @@
-clear;
+%clear;
 tic
 
-D=readtable('broen_c_090518','Delimiter','\t','ReadVariableNames',false);
+D=readtable('bron100518','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
@@ -91,8 +91,10 @@ bins(length(bins))=[];
 % fyll i tid(1) hårdkodad. Så att vi får tiden då vi börjar probea. inte
 % första proben. 
 tidsplot = tid(1) + minutes(0:(length(bins)-1));
- y = [28 27 14 49 26 27 26 37 33 15 23 27 19 36 35 18 34 22 32 28 35 37 26 24 24 25 38 22 30 20]; % 09-05-2018 kl 16:17-16:46
-
+y = [28 27 14 49 26 27 26 37 33 15 23 27 19 36 35 18 34 22 32 28 35 37 26 24 24 25 38 22 30 20]; % 09-05-2018 kl 16:17-16:46
+y2 = [7 0 5 6 9 9 5 7 7 2 6 7 7 13 15 13 10 7 4 19 4 16 7 12 9 6 10 7 17 7]; % 10-05-2018 kl 08:42-09:12
+ 
+minuter = [1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30];
  %relay = relation mellan signal och trafikanter
 relay = [length(y)];
 i=1;
@@ -101,19 +103,23 @@ while(i <= length(y))
    i = i+1;
 end
 
+%bins09=bins;
 figure
-plot(tidsplot,bins);
+plot(minuter,bins);
 %plot(tidsplot,relay);
 hold on
-title('Gåendetrafikanter resecentrum, 18/4 (14:25-14:55)')
-xlabel('Tidpunkt') 
+title('Fältstudie Bergsbron, 9/5 och 10/5 ')
+xlabel('Minut') 
 ylabel({'Antal uppfattade'; 'enheter/minut'})
 
 
 %set(get(gca,'ylabel'),'rotation',0, 'Position', [-0.1, 0.5, 0])
 set(get(gca,'ylabel'),'rotation',0, 'Units', 'Normalized', 'Position', [-0.1, 0.5, 0]);
 grid on
-plot(tidsplot,y);
+plot(minuter,y, '--');
+plot(minuter,y2,'--');
+plot(minuter, bins09);
+
 
 tid = num2cell(tid);
 rssi = num2cell(rssi);
