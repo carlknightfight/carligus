@@ -1,8 +1,8 @@
-clear;
+%clear;
 tic
 
+D=readtable('70vag','Delimiter','\t','ReadVariableNames',false);
 
-D=readtable('broen_c_090518','Delimiter','\t','ReadVariableNames',false);
 
 tid = [D.Var1];
 mac = [D.Var2];
@@ -91,29 +91,39 @@ bins(length(bins))=[];
 
 % fyll i tid(1) hï¿½rdkodad. Sï¿½ att vi fï¿½r tiden dï¿½ vi bï¿½rjar probea. inte
 % fï¿½rsta proben. 
-tidsplot = tid(1) + minutes(0:(length(bins)-1));
- y = [28 27 14 49 26 27 26 37 33 15 23 27 19 36 35 18 34 22 32 28 35 37 26 24 24 25 38 22 30 20]; % 09-05-2018 kl 16:17-16:46
-
- %relay = relation mellan signal och trafikanter
+%tidsplot = tid(1) + minutes(0:(length(bins)-1));
+y = [7 15 17 9 8 13 24 13 9 15 21 16 16 19 18 5 9 13 11 12 23 6 8 2 8 9 7 10 13];% 70-väg
+%y = [28 27 14 49 26 27 26 37 33 15 23 27 19 36 35 18 34 22 32 28 35 37 26 24 24 25 38 22 30 20]; % 09-05-2018 kl 16:17-16:46
+y2 = [7 0 5 6 9 9 5 7 7 2 6 7 7 13 15 13 10 7 4 19 4 16 7 12 9 6 10 7 17 7]; % 10-05-2018 kl 08:42-09:12
+ 
+minuter = [1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30];
+ 
+%relay = relation mellan signal och trafikanter
 relay = [length(y)];
 i=1;
 while(i <= length(y))
-   relay(i) = y(i)/bins(i); 
+  % relay(i) = y(i)/bins(i); 
    i = i+1;
 end
 
+%bins09=bins;
 figure
-plot(tidsplot,bins);
+plot(tidsplot,bins, '--');
+%plot(tidsplot,relay);
 hold on
-title('Gåendetrafikanter resecentrum, 18/4 (14:25-14:55)')
-xlabel('Tidpunkt') 
-ylabel({'Antal uppfattade'; 'enheter/minut'})
-
+%title('Experimentering: Hastighetsbegränsning 70 km/h (Bravikenvägen), 27/4 kl 15:56-16:26 ','FontSize',18)
+xlabel('Minut','FontSize',18) ;
+ylabel('Antal','FontSize',18);
 
 %set(get(gca,'ylabel'),'rotation',0, 'Position', [-0.1, 0.5, 0])
-set(get(gca,'ylabel'),'rotation',0, 'Units', 'Normalized', 'Position', [-0.1, 0.5, 0]);
+set(get(gca,'ylabel'),'rotation',0, 'Units', 'Normalized', 'Position', [-0.05, 0.5, 0]);
 grid on
 plot(tidsplot,y);
+legend( {'Avlyssnade sondsignaler', 'Passerande trafikanter'},'FontSize',18)
+set(gca,'FontSize',20);
+%plot(minuter,y2,'--');
+%plot(minuter, bins09);
+
 
 tid = num2cell(tid);
 rssi = num2cell(rssi);
