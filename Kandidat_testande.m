@@ -1,7 +1,7 @@
 %clear;
 tic
 
-D=readtable('tag2_c_100518','Delimiter','\t','ReadVariableNames',false);
+D=readtable('tag_2_100518','Delimiter','\t','ReadVariableNames',false);
 
 
 tid = [D.Var1];
@@ -116,21 +116,21 @@ end
 
 bins09=bins;
 figure
-plot(minuter,bins, 'b--');
+plot(minuter,bins, 'b--', 'LineWidth', 1);
 %plot(tidsplot,relay);
 hold on
 %title('Experimentering: Hastighetsbegränsning 70 km/h (Bravikenvägen), 27/4 kl 15:56-16:26 ','FontSize',18)
-xlabel('Minut','FontSize',18) ;
-ylabel('Antal','FontSize',18);
+xlabel('Minut') ;
+ylabel('Antal');
 
 %set(get(gca,'ylabel'),'rotation',0, 'Position', [-0.1, 0.5, 0])
-set(get(gca,'ylabel'),'rotation',0, 'Units', 'Normalized', 'Position', [-0.05, 0.5, 0]);
+set(get(gca,'ylabel'),'rotation',0, 'Units', 'Normalized', 'Position', [-0.11, 0.5, 0]);
 grid on
-plot(minuter,y, 'b');
-plot(minuter, bins_save, 'r--');
-plot(minuter,ysave, 'r');
-legend( {'Avlyssnade sondsignaler', 'Passerande trafikanter'},'FontSize',18)
-set(gca,'FontSize',20);
+plot(minuter,y, 'b','LineWidth', 1);
+plot(minuter, bins_save, 'r--','LineWidth', 1);
+plot(minuter,ysave, 'r','LineWidth', 1);
+legend( {'Avlyssnade sondsignaler (studie 1)', 'Räknade trafikanter (studie 1)', 'Avlyssnade sondsignaler (studie 2)','Räknade trafikanter (studie 2)'})
+%set(gca,'FontSize',20);
 %plot(minuter,y2,'--');
 %plot(minuter, bins09);
 
@@ -142,4 +142,5 @@ T = cell2table([tid mac corp ssid rssi]);
 %Spara ny textfil
 writetable(T,'myData.txt', 'Delimiter', '\t')
 cor = corrcoef(bins, y);
+print -djpeg -r600 test.jpg
 toc

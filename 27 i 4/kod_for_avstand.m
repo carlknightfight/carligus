@@ -1,7 +1,7 @@
 clear
 tic
 
-D=readtable('avstand12','Delimiter','\t','ReadVariableNames',false);
+D=readtable('avstand7','Delimiter','\t','ReadVariableNames',false);
 
 
 tid = [D.Var1];
@@ -9,6 +9,7 @@ mac = [D.Var2];
 corp = [D.Var3];
 ssid = [D.Var4];
 rssi = [D.Var5];
+
 
 % OnePlus: {'c0:ee:fb:9a:69:85'}
 % Huawei: {'d0:65:ca:06:97:3c'}
@@ -59,5 +60,5 @@ j=1;
             j=j+1;
     end
     
-    
+    medel = mean(rssi);
     
